@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListGraphQL</string>
+    <string name="type_here">Type here to search</string>
+    <string name="lat">Lat:</string>
+    <string name="lon">Lon:</string>
+    <string name="searching">Searching...</string>
+    <string name="results_found">Results found.</string>
+    <string name="search_for">Search for</string>
+</resources>

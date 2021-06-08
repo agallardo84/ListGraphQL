@@ -1,0 +1,14 @@
+ query SearchQuery($term:String!) {
+   search(searchTerm: $term) {
+     stations{
+       name
+       location {
+         latitude
+         longitude
+       }
+       picture {
+        url
+       }
+     }
+   }
+ }
